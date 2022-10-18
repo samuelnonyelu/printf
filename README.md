@@ -2,6 +2,10 @@
 
 This is an ALX project "printf" where we make our own printf funtion "_prinf".
 
+## Authors
+Samuel Nonyelu
+Daniel Udechukwu
+
 ## Description
 In c, printf is a function, that is used to do formatted printing. It is included in the stdio.h library in c.
 
